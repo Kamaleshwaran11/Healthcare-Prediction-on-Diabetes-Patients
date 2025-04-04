@@ -53,6 +53,10 @@ Run the Jupyter Notebook or Python script to train and evaluate the model.
 ## Model Comparsion
 <img src="https://github.com/user-attachments/assets/369ccc67-a656-4e4b-af65-03461495e2d6">
 
+## Final Prediction Output
+```
+[1] #1 indicates "Diabetic", 0 indicates "Non-Diabetic"
+```
 
 ## 📖 Viewing the Notebook
 
